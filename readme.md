@@ -23,6 +23,8 @@ reported issue.
 
 ## How to make it in my language?
 You can change values that use this bot in config.json
+
 אפשר לשנות את הערכים בתוך CONFIG.JSON לשפתכם, אבל כבר שיניתי לעברית
+
 ## Have a lot of fun :3
 תהנו
