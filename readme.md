@@ -14,6 +14,8 @@ reported issue.
  * Install from pip discord lib
  * Run service.py
  * Have fun :3
+ 
+ 
  * צור TOKEN עבור הבוט, עם הרשאה לקבלת הודעות ויצירה של ערוצים חדשים
  * הוסיפו את הבוט לשרת
  * הכניסו את ה-TOKEN שיצרתם בשלב הקודם אל תוך CONFIG.JSON 
