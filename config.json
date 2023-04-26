@@ -1,7 +1,7 @@
 {
-    "command": "!ticket",
+    "command": "!עזרה",
     "channelname": "ticket",
     "supportrole": "Support",
-    "successfull": "Created new ticket. Show channel ",
-    "discord-secret-token": "Change to Your!"
+    "successfull": "הפנייה נוצרה בהצלחה. צפה:",
+    "discord-secret-token": "[החלף לשלך]"
 }
