@@ -14,8 +14,15 @@ reported issue.
  * Install from pip discord lib
  * Run service.py
  * Have fun :3
+ * צור TOKEN עבור הבוט, עם הרשאה לקבלת הודעות ויצירה של ערוצים חדשים
+ * הוסיפו את הבוט לשרת
+ * הכניסו את ה-TOKEN שיצרתם בשלב הקודם אל תוך CONFIG.JSON 
+ * התקן מ- pip discord lib
+ * והרץ את service.py
+ * בהצלחה
 
 ## How to make it in my language?
 You can change values that use this bot in config.json
-
+אפשר לשנות את הערכים בתוך CONFIG.JSON לשפתכם, אבל כבר שיניתי לעברית
 ## Have a lot of fun :3
+תהנו
